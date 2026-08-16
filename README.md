@@ -25,7 +25,7 @@ The Excel file contains **1,000 demonstration records**:
 Research → Collection → Extraction → Cleaning → Formatting → Validation → Product Listing → Analysis → Dashboard → Reporting
 
 ## Files
-- Nazeha_Data_Research_Ecommerce_1000_Rows.xlsx
+- Nazeha_Mosharaf_Data_Research.xlsx
 - Nazeha_Data_Research_Project_Report.pdf
 
 > This is a personal demonstration project. All records are synthetic/demo data and are not represented as paid client work.
